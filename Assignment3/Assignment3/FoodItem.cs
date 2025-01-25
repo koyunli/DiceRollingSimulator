@@ -1,5 +1,7 @@
+
 namespace Assignment3;
 
+// Food Items Class represent a list of food
 class FoodItem
 {
     public string Name { get; set; }
