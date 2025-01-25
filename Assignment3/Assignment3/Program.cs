@@ -1,6 +1,6 @@
 ﻿using Assignment3;
 
-//Program class to fun the app
+//Program class to fun the apps
 class Program
 {
     static List<FoodItem> inventory = new List<FoodItem>();
